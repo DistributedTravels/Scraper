@@ -1,0 +1,1135 @@
+{
+ "hotel": "hotel-serra-palace-ex-lti-serra-resort",
+ "stars": 5.2,
+ "price": 2199,
+ "departure": "\nBydgoszcz\n\\\nGda\u0144sk\n\\\nKrak\u00f3w\n\\\nKatowice\n\\\n\u0141\u00f3d\u017a\n\\\nPozna\u0144\n\\\nRzesz\u00f3w\n\\\nSzczecin\n\\\nWarszawa\n\\\nWroc\u0142aw\n",
+ "arrival": "turcja\\side",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-blue-lagoon-garden-satellite",
+ "stars": 5.4,
+ "price": 2649,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-blue-sea-beach-resort",
+ "stars": 5.1,
+ "price": 2749,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\rodos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. cz\u0119\u015b\u0107 annex\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.2,
+ "price": 2329,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\orient-express",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-grand-blue-fafa",
+ "stars": 5.2,
+ "price": 999,
+ "departure": "Dojazd w\u0142asny\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\durres",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j promo 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.4,
+ "price": 1898,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "wlochy\\klasyczne-wlochy",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-panorama-boutique-village",
+ "stars": 4.8,
+ "price": 2445,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kreta",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.5,
+ "price": 1299,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "wlochy\\toskanska-przygoda",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-grint",
+ "stars": 5.4,
+ "price": 2099,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\durres",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-xenios-anastasia-resort-spa",
+ "stars": 5.2,
+ "price": 1125,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "grecja\\chalkidiki",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os. w/morze\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-grand-sahins-gumuldur-resort",
+ "stars": 0,
+ "price": 1999,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "turcja\\kusadasi",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. w/morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 2099,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\side",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. boczny w/morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-sensitive-premium-resort-spa",
+ "stars": 5.2,
+ "price": 2099,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\belek",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-ionis-art",
+ "stars": 5.4,
+ "price": 2799,
+ "departure": "Katowice\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\zakynthos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-fuerteventura-princess",
+ "stars": 5.3,
+ "price": 3799,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\fuerteventura",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 1848,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "chorwacja\\chorwacka-lista-przebojow",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-kakkos-beach",
+ "stars": 5.8,
+ "price": 3499,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kreta",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-blue-lagoon-resort",
+ "stars": 5.4,
+ "price": 2999,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-castello-mare-wellness-resort",
+ "stars": 5.5,
+ "price": 2889,
+ "departure": "Katowice\\Krak\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "gruzja",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-domina-zagarella-sicily",
+ "stars": 5.3,
+ "price": 3189,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "wlochy\\sycylia",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. balkon\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-aldemar-royal-olympian",
+ "stars": 5.2,
+ "price": 3099,
+ "departure": "Warszawa",
+ "arrival": "grecja\\peloponez",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-villaggio-albergo-belmonte",
+ "stars": 5.7,
+ "price": 2789,
+ "departure": "Katowice\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wlochy\\kalabria",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-monte-mar-palace",
+ "stars": 4.7,
+ "price": 2699,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "madera",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-zante-park-resort-spa-bw-premier-collection",
+ "stars": 5.2,
+ "price": 2899,
+ "departure": "\nKatowice\n\\\nPozna\u0144\n\\\nRzesz\u00f3w\n\\\nWarszawa\n\\\nWroc\u0142aw\n",
+ "arrival": "grecja\\zakynthos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j executive 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-kadikale-resort-spa-wellness",
+ "stars": 5.1,
+ "price": 2199,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\bodrum",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-oasis-atlantico-belorizonte",
+ "stars": 4.9,
+ "price": 3999,
+ "departure": "Warszawa",
+ "arrival": "wyspy-zielonego-przyladka",
+ "trip": "wczasy",
+ "room": "\nSuperior loft bungalow 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-iberostar-slavija",
+ "stars": 6.0,
+ "price": 1300,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "czarnogora",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 694,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "chorwacja\\istria",
+ "trip": "wczasy",
+ "room": "\nApartament 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-occidental-cala-vias",
+ "stars": 5.0,
+ "price": 3259,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "hiszpania\\majorka",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-lazuli",
+ "stars": 5.4,
+ "price": 2999,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "egipt\\marsa-alam",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 2499,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\side",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. w/morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-abora-interclub-atlantic",
+ "stars": 5.1,
+ "price": 3549,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\gran-canaria",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-grecotel-filoxenia",
+ "stars": 6.0,
+ "price": 1299,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "grecja\\peloponez",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j standardowy z werand\u0105 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-vidamar-resort-madeira",
+ "stars": 5.4,
+ "price": 3599,
+ "departure": "\nKatowice\n\\\nPozna\u0144\n\\\nWarszawa\n\\\nWroc\u0142aw\n",
+ "arrival": "madera",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.7,
+ "price": 6999,
+ "departure": "Warszawa",
+ "arrival": "dominikana\\punta-cana",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j luxury 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 2199,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Warszawa\\Warszawa - Modlin\\Wroc\u0142aw",
+ "arrival": "malta\\paradise-bay-resort",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. widok na zatok\u0119\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-ascos-coral-beach",
+ "stars": 5.0,
+ "price": 1789,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Warszawa - Modlin\\Wroc\u0142aw",
+ "arrival": "cypr\\pafos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-azure-memories",
+ "stars": 5.2,
+ "price": 2899,
+ "departure": "Katowice\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\zakynthos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. w willi\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-ramada-resort-akbuk",
+ "stars": 5.1,
+ "price": 2199,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\didyma",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 2419,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "tunezja\\wrota-pustyni",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-mirador-maspalomas-by-dunas",
+ "stars": 4.8,
+ "price": 3099,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\gran-canaria",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-pine-bay",
+ "stars": 5.1,
+ "price": 2499,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "turcja\\kusadasi",
+ "trip": "wczasy",
+ "room": "\nBungalow 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.0,
+ "price": 1399,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "wlochy\\pocztowka-znad-gardy",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-grand-teguise-playa",
+ "stars": 5.2,
+ "price": 3949,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "wyspy-kanaryjskie\\lanzarote",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os. widok na morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-r2-pajara-beach",
+ "stars": 5.2,
+ "price": 2899,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\fuerteventura",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 1298,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bielsko - Bia\u0142a\\E\u0142k\\Gliwice\\G\u0142ubczyce\\Grajewo\\Katowice\\Krak\u00f3w\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pozna\u0144\\Rzesz\u00f3w\\Suwa\u0142ki\\Szczuczyn\\Warszawa\\Wroc\u0142aw",
+ "arrival": "slowenia\\male-jest-piekne",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-azalia",
+ "stars": 4.9,
+ "price": 719,
+ "departure": "Dojazd w\u0142asny\\Katowice\\Warszawa",
+ "arrival": "bulgaria\\zlote-piaski",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.5,
+ "price": 3139,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\orient-extra",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 4.8,
+ "price": 2489,
+ "departure": "",
+ "arrival": "hiszpania\\costa-brava",
+ "trip": "wczasy",
+ "room": "",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-pelagos-zante",
+ "stars": 5.1,
+ "price": 2449,
+ "departure": "Katowice\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\zakynthos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-gaia-royal",
+ "stars": 5.0,
+ "price": 2299,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-solimar-aquamarine",
+ "stars": 5.0,
+ "price": 2799,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kreta",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j rodzinny junior suite 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-club-cactus-paradise",
+ "stars": 5.1,
+ "price": 2199,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "turcja\\kusadasi",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-intercontinental-mauritius",
+ "stars": 4.8,
+ "price": 7409,
+ "departure": "Warszawa",
+ "arrival": "mauritius",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j prestige 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-palma",
+ "stars": 5.1,
+ "price": 989,
+ "departure": "Dojazd w\u0142asny\\Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\saranda",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-strand-taba-heights-beach-golf-resort-ex-intercontinental",
+ "stars": 5.0,
+ "price": 2499,
+ "departure": "Katowice\\Warszawa\\Wroc\u0142aw",
+ "arrival": "egipt\\taba",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-club-boran-mare-beach",
+ "stars": 5.6,
+ "price": 2399,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\kemer",
+ "trip": "wczasy",
+ "room": "\nBungalow 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-prestige-resort",
+ "stars": 0,
+ "price": 2470,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\durres",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-vikingen-infinity-resort-spa",
+ "stars": 5.1,
+ "price": 2299,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\alanya",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-sagitta-holiday-village",
+ "stars": 5.5,
+ "price": 1369,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "chorwacja\\dalmacja",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 3289,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "malta\\lece-nad-morze-malta",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 1848,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "wlochy\\toskania-z-dedykacja",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-royal-karthago-djerba",
+ "stars": 5.2,
+ "price": 2219,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "tunezja\\djerba",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-horizont",
+ "stars": 5.1,
+ "price": 1509,
+ "departure": "Dojazd w\u0142asny\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\Pozna\u0144\\Rzesz\u00f3w\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\durres",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-harmony-crest-resort-spa",
+ "stars": 0,
+ "price": 2849,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-presa-di-finica-ex-fun-sun-club-di-finica",
+ "stars": 5.0,
+ "price": 2199,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\finike",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-andilana-beach-resort",
+ "stars": 5.4,
+ "price": 9029,
+ "departure": "Warszawa",
+ "arrival": "madagaskar\\nosy-be",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-marhaba-palace-sousse",
+ "stars": 5.3,
+ "price": 2499,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "tunezja\\sousse",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-blue-dream-palace",
+ "stars": 5.3,
+ "price": 2719,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "grecja\\thassos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-aldemar-knossos-royal",
+ "stars": 5.3,
+ "price": 3299,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\kreta",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 6.0,
+ "price": 3239,
+ "departure": "Gda\u0144sk\\Krak\u00f3w\\Warszawa",
+ "arrival": "grecja\\santorini",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-fairmont-maldives",
+ "stars": 0,
+ "price": 24799,
+ "departure": "Warszawa",
+ "arrival": "malediwy",
+ "trip": "wczasy",
+ "room": "\nSunrise Beach Villa with pool 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-residence-solemare-club-village",
+ "stars": 0,
+ "price": 3532,
+ "departure": "Katowice\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wlochy\\kalabria",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j comfort 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-q-premium",
+ "stars": 5.5,
+ "price": 2099,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\alanya",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. boczny w/morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-bg-portinatx-beach-club",
+ "stars": 5.3,
+ "price": 2969,
+ "departure": "Katowice",
+ "arrival": "hiszpania\\ibiza",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-tabaiba-princess",
+ "stars": 5.5,
+ "price": 4549,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\gran-canaria",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-costa-verde",
+ "stars": 5.0,
+ "price": 3099,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "wlochy\\sycylia",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-magna-graecia",
+ "stars": 4.7,
+ "price": 2499,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\korfu",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-kolymbia-sky",
+ "stars": 4.8,
+ "price": 2749,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\rodos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-xenios-dolphin-beach",
+ "stars": 4.7,
+ "price": 919,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "grecja\\chalkidiki",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-acacia-resort",
+ "stars": 5.4,
+ "price": 3469,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "wlochy\\sycylia",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j standardowy superior 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-club-esse-palmasera-resort",
+ "stars": 4.8,
+ "price": 3739,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "wlochy\\sardynia",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. cz\u0119\u015b\u0107 Villaggio\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-coral-cotillo-beach",
+ "stars": 5.2,
+ "price": 2799,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "wyspy-kanaryjskie\\fuerteventura",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j premium 2 os. widok na zatok\u0119\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-bg-tonga-design-suites-tower",
+ "stars": 5.4,
+ "price": 3289,
+ "departure": "Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "hiszpania\\majorka",
+ "trip": "wczasy",
+ "room": "\nApartament 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-dream-water-world",
+ "stars": 0,
+ "price": 2709,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\side",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.8,
+ "price": 4999,
+ "departure": "Warszawa",
+ "arrival": "irlandia\\w-krainie-leprikonow",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-vik-gran-costa-del-sol",
+ "stars": 4.4,
+ "price": 1749,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "hiszpania\\costa-del-sol",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j comfort 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-melia-sunny-beach",
+ "stars": 5.4,
+ "price": 750,
+ "departure": "Dojazd w\u0142asny\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "bulgaria\\sloneczny-brzeg",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.3,
+ "price": 2038,
+ "departure": "",
+ "arrival": "chorwacja\\chorwacki-strzal-w-dziesiatke",
+ "trip": "wycieczki",
+ "room": "",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-sorgun-akadia-luxury",
+ "stars": 6.0,
+ "price": 2645,
+ "departure": "Bydgoszcz\\Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Rzesz\u00f3w\\Szczecin\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\side",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-blue-sea-holiday-village-ex-lippia-resort-spa",
+ "stars": 5.1,
+ "price": 3049,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\rodos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-andon-lapa",
+ "stars": 5.0,
+ "price": 1589,
+ "departure": "Dojazd w\u0142asny\\Gda\u0144sk\\Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "albania\\saranda",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-azure-by-yelken",
+ "stars": 0,
+ "price": 2199,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\bodrum",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os. boczny w/morze\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-veronica",
+ "stars": 4.3,
+ "price": 1299,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\Warszawa - Modlin\\Wroc\u0142aw",
+ "arrival": "cypr\\pafos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.6,
+ "price": 3299,
+ "departure": "Katowice\\Warszawa",
+ "arrival": "hiszpania\\basnie-tysiaca-i-7-nocy",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-flower-garden",
+ "stars": 0,
+ "price": 2189,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "albania\\durres",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-residence-le-playe",
+ "stars": 4.8,
+ "price": 2539,
+ "departure": "",
+ "arrival": "wlochy\\kalabria",
+ "trip": "wczasy",
+ "room": "",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 5.0,
+ "price": 2199,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "grecja\\greckie-wakacje",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-niriides",
+ "stars": 5.2,
+ "price": 2949,
+ "departure": "Gda\u0144sk\\Katowice\\Krak\u00f3w\\\u0141\u00f3d\u017a\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "grecja\\rodos",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-aquasis-deluxe-resort-spa",
+ "stars": 5.7,
+ "price": 2999,
+ "departure": "Katowice\\Pozna\u0144\\Warszawa\\Wroc\u0142aw",
+ "arrival": "turcja\\didyma",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j terrace sunset 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-4r-gran-europe",
+ "stars": 4.8,
+ "price": 2989,
+ "departure": "Katowice\\Warszawa\\Wroc\u0142aw",
+ "arrival": "hiszpania\\costa-dorada",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}{
+ "hotel": "",
+ "stars": 6.0,
+ "price": 125,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 6.0,
+ "price": 135,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-holiday-inn-express-rzeszow-airport",
+ "stars": 0,
+ "price": 140,
+ "departure": "",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "",
+ "transport": "Samolot"
+}{
+ "hotel": "hotel-kopernik-torun",
+ "stars": 0,
+ "price": 145,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.0,
+ "price": 145,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-moxy-katowice-airport",
+ "stars": 5.5,
+ "price": 155,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-hampton-by-hilton-warsaw-airport",
+ "stars": 5.5,
+ "price": 159,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-tobaco",
+ "stars": 6.0,
+ "price": 165,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.6,
+ "price": 165,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\poza-miastem",
+ "trip": "wczasy",
+ "room": "\nTipi 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-altus-poznan-old-town",
+ "stars": 0,
+ "price": 165,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-hampton-by-hilton-gdansk-airport",
+ "stars": 0,
+ "price": 175,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-focus-premium-elblag",
+ "stars": 0,
+ "price": 175,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-wellness-harrachovka",
+ "stars": 6.0,
+ "price": 189,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "czechy",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 190,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\morze",
+ "trip": "wczasy",
+ "room": "\nApartament deluxe 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 198,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\gory",
+ "trip": "wczasy",
+ "room": "\nApartament 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-courtyard-by-marriott-warsaw-airport",
+ "stars": 5.7,
+ "price": 199,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j deluxe 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 200,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\morze",
+ "trip": "wczasy",
+ "room": "\nApartament 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 210,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\morze",
+ "trip": "wczasy",
+ "room": "\nApartament deluxe 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 6.0,
+ "price": 220,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j deluxe 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-renaissance-warsaw-airport",
+ "stars": 5.5,
+ "price": 230,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\przy-lotnisku",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-piotr-spa-wellness",
+ "stars": 5.7,
+ "price": 269,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\gory",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-puro-wroclaw-stare-miasto",
+ "stars": 0,
+ "price": 269,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\w-miescie",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j superior 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 0,
+ "price": 270,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\jeziora",
+ "trip": "wczasy",
+ "room": "\nApartament Superior 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "hotel-redyk-ski-relax",
+ "stars": 5.6,
+ "price": 278,
+ "departure": "Dojazd w\u0142asny",
+ "arrival": "polska\\gory",
+ "trip": "wczasy",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Dojazd w\u0142asny"
+}{
+ "hotel": "",
+ "stars": 5.4,
+ "price": 1898,
+ "departure": "August\u00f3w\\Bia\u0142ystok\\Bydgoszcz\\Cz\u0119stochowa\\E\u0142k\\Gda\u0144sk\\Gliwice\\G\u0142ubczyce\\Gorz\u00f3w Wielkopolski\\Grajewo\\Katowice\\Koszalin\\Krak\u00f3w\\Legnica\\Leszno\\\u0141\u00f3d\u017a\\\u0141om\u017ca\\Opole\\Pi\u0142a\\Piotrk\u00f3w Trybunalski\\Pozna\u0144\\Rzesz\u00f3w\\S\u0142upsk\\Suwa\u0142ki\\Szczecin\\Szczuczyn\\Toru\u0144\\Warszawa\\Wroc\u0142aw\\Zielona G\u00f3ra",
+ "arrival": "wlochy\\klasyczne-wlochy",
+ "trip": "wycieczki",
+ "room": "\nPok\u00f3j 2 os.\n",
+ "transport": "Samolot"
+}

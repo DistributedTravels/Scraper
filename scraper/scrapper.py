@@ -47,7 +47,7 @@ class Scrapper:
         classes = ['type-1 active', 'type0', 'type5', 'type6', 'type7', 'type9', 'type11']
 
         for c in classes:
-            t = soup.find('label', {'class': c})
+            t = soup.find('label', {'class': c}) # or span
             trips = Trips(t)
             trips.write_to_json_file()
 
@@ -113,7 +113,7 @@ class Scrapper:
 
         for d in range(len(departures)):
             departures[d] = departures[d].get_text()
-            result_departure += departures[d]
+            result_departure += departures[d].strip('\n')
 
             if d < len(departures) - 1:
                 result_departure += "\\"
@@ -121,6 +121,7 @@ class Scrapper:
         room = soup.find('select', {'id': "room-select"})
         try:
             room = room.find('option').get_text()
+            room = room.strip('\n')
         except Exception as e:
             room = ""
 

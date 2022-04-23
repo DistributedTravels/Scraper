@@ -11,11 +11,16 @@ class Trips:
         dictionary = {
             "trip": self.trip
         }
-        json_object = json.dumps(dictionary, indent=1)
+        json_object = json.dumps(dictionary, indent=1, ensure_ascii=False)
         with open(self.file_name, 'a', encoding='utf-8') as f:
             f.write(json_object)
 
     def get_trip(self):
-        trip = self.t.get_text()
-        trip = trip.strip('\n')
-        return trip
+        try:
+            trip = self.t.get_text()
+            trip = trip.strip('\n')
+            return trip
+
+        except Exception as e:
+            return None
+

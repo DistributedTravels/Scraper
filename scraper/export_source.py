@@ -25,6 +25,8 @@ final_sources.remove('Bielsko - Biała')
 final_sources.add('Bielsko-Biała')
 final_sources.remove('Dojazd własny')
 
+final_sources.difference_update(['Augustów', 'Gorzów Wielkopolski', "Grajewo", "Głubczyce", "Gliwice", "Legnica", "Leszno", "Piotrków Trybunalski", "Piła", "Suwałki", "Szczuczyn", "Słupsk", "Torzym", "Zgorzelec", "Zielona Góra", "Łomża", "Białystok", "Bielsko-Biała", "Ełk", "Częstochowa", "Koszalin", "Opole", "Toruń"])
+
 final_sources = list(final_sources)
 final_sources.sort()
 
